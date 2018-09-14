@@ -1,0 +1,5 @@
+julia  #进入julia模式
+]      #进入pkg模式
+up     #更新
+add JSON  #添加package
+ctrl+D    #退出pkg模式
